@@ -78,7 +78,7 @@
   }
   
   #context p {
-    padding: 0.3rem 3rem 0; /* Reduced padding for mobile */
+    padding: 0.3rem 3.2rem 0; /* Reduced padding for mobile */
     font-size: clamp(0.7rem, 3vw, 0.8rem);
     font-weight: bold;
     font-family: var(--font-monospace);
